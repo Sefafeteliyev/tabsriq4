@@ -1,0 +1,91 @@
+*{
+padding: 0px;
+margin: 0px;
+}
+body{
+    background-color: rgb(220, 232, 236);
+}
+.container {
+    max-width: 500px;
+    margin: auto;
+  }
+  #umumibir{
+      background-color: #293a44;
+      width: 580px;
+      margin-left: 340px;
+      padding-top: 70px;
+  }
+  #bir{
+    width: 580px;
+    height: 394px;
+    background-color: #37555e;
+  }
+  #iki{
+    width: 366px;
+    height: 253px;
+    border-radius: 6px;
+    filter: drop-shadow(0.5px 0.866px 2px rgba(0,0,0,0.45));
+    background-color:#37555e ;
+    margin-left: 110px;
+    padding-top: 32px;
+    
+    padding: 15px;
+  }
+  #uc{
+    width: 352px;
+    height: 239px;
+    border-radius: 6px;
+    filter: drop-shadow(0.5px 0.866px 0px rgba(38,38,38,0.8));
+    background-color: rgba(236,236,236,0.8);
+  }
+  #dord{
+    width: 352px;
+height: 62px;
+border-radius: 6px;
+filter: drop-shadow(0.5px 0.866px 0px rgba(38,38,38,0.8));
+background-color: rgba(169,199,207,0.8);
+margin-top: 7px;
+  }
+  #dord button{
+    width: 98px;
+    height: 31px;
+    border-radius: 4px;
+    filter: drop-shadow(0.5px 0.866px 0.5px rgba(0,0,0,0.45));
+    background-image: linear-gradient(0deg, #65b5fb 0%, #b3e1ff 100%);
+    border: 2px solid #ffffff;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    margin-left:  235px;
+  }
+  #uc label{
+    font-size: 16px;
+    line-height: 14px;
+    color: #484949;
+    font-family: "Arial";
+    text-align: left;
+    margin-top: 30px;
+    margin-left: 7px;
+  }
+  #uc input{
+    width: 209px;
+    height: 34px;
+    border-radius: 4px;
+    filter: drop-shadow(0.5px 0.866px 0px #ffffff);
+    background-color: #dedddd;
+    margin-top: 25px;
+    margin-left: 5px;
+    border: none;
+  }
+  
+  .href{font-size: 12px;
+    line-height: 14px;
+text-decoration: underline;
+    color: #293544;
+    font-family: "Arial";
+    text-align: left;
+    position: absolute;
+    top: 145px;
+    left: 235px;
+    text-decoration:none;
+  }
+  
